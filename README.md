@@ -9,3 +9,8 @@
   Oh, and if you didn't like it, be sure to leave a feedback and lmk what was missing for you. This will be greatly <strong>appreciated</strong>.</p>
   
   
+  <p>Let's dive in!</p>
+  <img src = “./images/Untitled222.jpg” width = _ height =_>
+
+  
+  
