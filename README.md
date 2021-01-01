@@ -10,7 +10,7 @@
   
   
   <p>Let's dive in!</p>
-  ![](images/Untitled222.jpg)
+  ![](images/Untitled222.jpg){:height="50%" width="50%"}
 
 
 <h3>EDA 1: IMDB dataset</h3>
