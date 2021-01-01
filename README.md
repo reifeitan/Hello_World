@@ -10,7 +10,7 @@
   
   
   <p>Let's dive in!</p>
-  <img src = “./images/Untitled222.jpg” width = _ height =_>
+  <img src = “images/Untitled222.jpg” width = _ height =_>
 
   
   
