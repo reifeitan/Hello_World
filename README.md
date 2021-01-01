@@ -1,7 +1,7 @@
 <h1>Welcome</h1>
 
 
-<h4>Personal note</h4>
+<h3>Personal note</h3>
 <p> Thrilled you're here :).<br>
   My first professional objective is landing a job in a field I find intersting and the task at hand is mainly around gathering insights by harnessing data.<br>
   I guess my CV got you here so I'll keep it lite... Come with an open mind, how many CPAs do you know with a github page?<br>
