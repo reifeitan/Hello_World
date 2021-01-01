@@ -10,7 +10,8 @@
   
   
   <p>Let's dive in!</p>
-  ![](images/Untitled222.jpg)
+  <img src = “images/Untitled222.jpg” width = 200 height =100>
+
 
   
   
