@@ -10,7 +10,7 @@
   
   
   <p>Let's dive in!</p>
-  ![](images/Untitled222.jpg = 200x200)
+  ![](images/Untitled222.jpg)
 
 
   
