@@ -13,5 +13,18 @@
   ![](images/Untitled222.jpg)
 
 
+<h3>EDA 1: IMDB dataset</h3>
+<ol>
+<li>Null values filling</li>
+<ol>
+<li>Metascore - using pandas</li>
+<li>Rev_M - using sci-kit LR</li>
+</ol>
+<li>Genre analysis</li>
+<li>Actors analysis
+</li>
+<li>General</li>
+</ol>
+
   
   
