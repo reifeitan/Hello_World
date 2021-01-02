@@ -29,14 +29,13 @@
 
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
-
+<ol>
 <li>Smokers analysis</li>
 <li>Age analysis</li>
 <li>BMI analysis</li>
 <li>General</li>
 <li><a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a></li>
-
-
+</ol>
 ddd
 
 
