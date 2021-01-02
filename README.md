@@ -27,9 +27,8 @@
 <li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
 </ol>
 
-<li>
+
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
-</li>
 <ol class="EDA 2">
   <li>Smokers analysis</li>
   <li>Age analysis</li>
