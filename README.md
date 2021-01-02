@@ -16,7 +16,7 @@
 
 <h4><em>Click the titles for the python notebook</em></h4>
 
-<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset</a></h3>
+<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset - click for ipynb file</a></h3>
 <ol>
  <li>Null values filling
   <ol>
@@ -33,7 +33,7 @@
 
 
 
-<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
+<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset - click for ipynb file</a></h3>
 <ol>
   <li>Smokers analysis</li>
   <li>Age analysis</li>
