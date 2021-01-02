@@ -30,7 +30,7 @@
  <li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
  </ol>
  
-![](/IMDB/ratingbyg.png){:height="50%" width="50%"}  ![](/IMDB/revbyear.png){:height="50%" width="50%"}
+![](/IMDB/ratingbyg.png){:height="30%" width="30%"}  ![](/IMDB/revbyear.png){:height="30%" width="30%"}
 
 
 
