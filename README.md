@@ -14,22 +14,22 @@
 
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset</a></h3>
-<ol class="EDA 1">
+ <ol>
  <li>Null values filling
   <ol>
   <li>Metascore - using pandas</li>
   <li>Rev_M - using sci-kit LR</li>
   </ol>
  </li>
-<li>Genre analysis</li>
-<li>Actors analysis
-<li>General</li>
-<li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
-</ol>
+ <li>Genre analysis</li>
+ <li>Actors analysis
+ <li>General</li>
+ <li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
+ </ol>
 
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
-<ol class="EDA 2">
+<ol>
   <li>Smokers analysis</li>
   <li>Age analysis</li>
   <li>BMI analysis</li>
