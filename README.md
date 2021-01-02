@@ -24,7 +24,7 @@
 <li>Genre analysis</li>
 <li>Actors analysis
 <li>General</li>
-<li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li></ol>
+<li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
 
 
 
