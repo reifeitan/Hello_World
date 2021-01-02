@@ -27,7 +27,6 @@
 <br>
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
-<ol>
 <li>Smokers analysis</li>
 <li>Age analysis</li>
 <li>BMI analysis
