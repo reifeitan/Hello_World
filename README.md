@@ -31,10 +31,11 @@
  </ol>
  
 ![](/IMDB/ratingbyg.png){:height="30%" width="30%"}  ![](/IMDB/revbyear.png){:height="30%" width="30%"}
+![](/IMDB/barnline.png){:height="40%" width="60%"}
 
 
-
-
+<br>
+<br>
 
 
 
@@ -46,6 +47,13 @@
   <li>General</li>
   <li><a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a></li>
 </ol>
+
+
+
+![](/Insurance/ins_hist.png){:height="35%" width="40%"} ![](/Insurance/ins_boxen.png){:height="35%" width="30%"}
+
+
+
 
 
 
