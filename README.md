@@ -1,4 +1,4 @@
-<h2>Eitan portfolio</h1>
+<h2>Eitan portfolio</h2>
 
 
 <h3>Personal note</h3>
