@@ -26,6 +26,10 @@
  <li>General</li>
  <li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
  </ol>
+ 
+ 
+ 
+ ![](images/Untitled222.jpg){:height="50%" width="50%"}
 
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
