@@ -28,8 +28,8 @@
  </ol>
  
  
- 
- ![](images/Untitled222.jpg){:height="50%" width="50%"}
+ <p>
+ </p>
 
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
