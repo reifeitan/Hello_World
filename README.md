@@ -30,7 +30,9 @@
  <li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
  </ol>
  
-![](https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/ratingbyg.png){:height="50%" width="50%"}  ![](https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/revbyear.png){:height="50%" width="50%"}
+![](https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/ratingbyg.png){:height="50%" width="50%"}  
+
+![](https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/revbyear.png){:height="50%" width="50%"}
 
 
 
