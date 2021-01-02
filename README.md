@@ -14,7 +14,7 @@
 
 
 
-<h4><em>Click the titles for the python notebook</em></h4>
+
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset - click for ipynb file</a></h3>
 <ol>
