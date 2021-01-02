@@ -15,11 +15,11 @@
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset</a></h3>
 <ol>
-<li>Null values filling</li>
-
+<li>Null values filling
+<ol>
 <li>Metascore - using pandas</li>
 <li>Rev_M - using sci-kit LR</li>
-
+</ol>
 <li>Genre analysis</li>
 <li>Actors analysis
 <li>General</li>
