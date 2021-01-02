@@ -13,7 +13,8 @@
   ![](images/Untitled222.jpg){:height="50%" width="50%"}
 
 
-<h4>Click the titles for the python notebook</h4>
+
+<h4><em>Click the titles for the python notebook</em></h4>
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset</a></h3>
 <ol>
