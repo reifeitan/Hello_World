@@ -12,8 +12,8 @@
   <p>Let's dive in!</p>
   ![](images/Untitled222.jpg){:height="50%" width="50%"}
 
-<a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">
-<h3>EDA 1: IMDB dataset</h3></a>
+
+<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset</a></h3>
 <ol>
 <li>Null values filling</li>
 <ol>
