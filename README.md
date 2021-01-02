@@ -1,4 +1,4 @@
-<h2>Eitan portfolio</h2>
+<h2><font color='green'>Eitan portfolio</font></h2>
 
 
 <h3>Personal note</h3>
