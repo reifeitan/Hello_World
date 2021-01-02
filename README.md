@@ -15,12 +15,12 @@
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset</a></h3>
 <ol>
-<li>Null values filling
-<ol>
-<li>Metascore - using pandas</li>
-<li>Rev_M - using sci-kit LR</li>
-</ol>
-</li>
+ <li>Null values filling
+  <ol>
+  <li>Metascore - using pandas</li>
+  <li>Rev_M - using sci-kit LR</li>
+  </ol>
+ </li>
 <li>Genre analysis</li>
 <li>Actors analysis
 <li>General</li>
@@ -30,12 +30,12 @@
 
 <h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset</a></h3>
 <ol>
-<li>Smokers analysis</li>
-<li>Age analysis</li>
-<li>BMI analysis</li>
-<li>General</li>
-<li><a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a></li>
+  <li>Smokers analysis</li>
+  <li>Age analysis</li>
+  <li>BMI analysis</li>
+  <li>General</li>
+  <li><a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a></li>
 </ol>
-ddd
+bye
 
 
