@@ -4,10 +4,9 @@
 <h3>Intro</h3>
 <p> 
   My first professional objective is landing a job in a field I find interesting and the task at hand is mainly around gathering insights by harnessing data.<br>
-  An analytical person is more than being comfortable around numbers. It's about understanding different processes from different disciplines in a timely manner,   which in return will generate great analysis with beneficial insights.
-  My previous roles were very diverse cause I had to work different teams 
+I'm not just an analytical person cause numbers don't scare me, it's working with diverse teams/data points and quickly understand their standing in the process that makes one truly analytical. As I see it, the future is all about encompassing the human mind (decision making) with machine capabilities, and to succeed you need to have an understanding of how every piece in the puzzle operates.<br>
   how many CPAs do you know with a github page? ;)<br>
-  Feel free to leave <strong>feedback</strong> and lmk what could be done better. This will be greatly <strong>appreciated</strong>.
+  Feel free to leave <strong>feedback</strong> and lmk what could be done better. This will be greatly <strong>appreciated</strong>.<br>
   The work below will be updated on a weekly basis going forward.<br>
   
 </p>
@@ -17,15 +16,6 @@
   ![](images/Untitled222.jpg){:height="50%" width="50%"}
 
 
-<li>Null values filling
-  <ol>
-  <li>Metascore - using pandas</li>
-  <li>Rev_M - predicting the values using scikit LR</li>
-  </ol>
- </li>
- <li>Genre analysis</li>
- <li>Actors analysis</li>
- <li>General</li>
 
 
 <h3><font color='green'>EDA 1: IMDB dataset </font> </h3>
