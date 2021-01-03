@@ -28,14 +28,14 @@
  <li>General</li>
 
 
-<h3><font color='blue'>EDA 1: IMDB dataset </font> </h3>
+<h3><font color='green'>EDA 1: IMDB dataset </font> </h3>
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">Click to view the python notebook</a>
  
  * In this dataset we have 1000 movies for 10 year period (2006-2016).<br>
  I will explore it to gather some insights about the genres, actors, directors and more.<br>
  * The dataset has null values and I'll fill them using numpy/pandas and LR prediction using scikit<br>
- *<a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a><br>
+ * <a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a><br>
 
  
 ![](/IMDB/ratingbyg.png){:height="30%" width="30%"}  ![](/IMDB/revbyear.png){:height="30%" width="30%"}
@@ -47,14 +47,13 @@
 
 
 
-<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">EDA 2: Insurance dataset - click for ipynb file</a></h3>
-<ol>
-  <li>Smokers analysis</li>
-  <li>Age analysis</li>
-  <li>BMI analysis</li>
-  <li>General</li>
-  <li><a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a></li>
-</ol>
+<h3><font color='green'>EDA 2: Insurance dataset </font></h3>
+
+ * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">Click to view the python notebook</a>
+ * In this dataset we information about insureds data,<br>
+ and I will try to understand what affects the insureds cost by exploring age, BMI, smoking habits and more.
+  * <a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a>
+
 
 
 
