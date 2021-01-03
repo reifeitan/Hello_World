@@ -45,7 +45,7 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">Click to view the python notebook</a>
  
- * In this dataset we have information about insureds' policies.<br>
+ * In this dataset we have information about insureds' background and policies.<br>
  I will try to understand what affects the insureds cost by exploring age, BMI, smoking habits and more.
   * <a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a>
 
