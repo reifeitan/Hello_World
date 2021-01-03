@@ -26,7 +26,7 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">Click to view the python notebook</a>
  
- * In this dataset we have 1000 movies for 10 year period (2006-2016).<br>
+ * In this dataset we have 1000 movies for 10 years period (2006-2016).<br>
  I will explore it to gather some insights about the genres, actors, directors and more.<br>
  * The dataset has null values and I'll fill them using numpy/pandas and LR prediction using scikit<br>
  * <a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a><br>
