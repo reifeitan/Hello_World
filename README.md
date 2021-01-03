@@ -28,14 +28,14 @@
  <li>General</li>
 
 
-<h3>EDA 1: IMDB dataset - </h3>
+<h3><font color='blue'>EDA 1: IMDB dataset </font> </h3>
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">Click to view the python notebook</a>
  
- In this dataset we have 1000 movies for 10 year period (2006-2016).<br>
+ * In this dataset we have 1000 movies for 10 year period (2006-2016).<br>
  I will explore it to gather some insights about the genres, actors, directors and more.<br>
- * The dataset has null values and I'll fill them using numpy/pandas and LR prediction using scikit
- *<a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a>
+ * The dataset has null values and I'll fill them using numpy/pandas and LR prediction using scikit<br>
+ *<a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a><br>
 
  
 ![](/IMDB/ratingbyg.png){:height="30%" width="30%"}  ![](/IMDB/revbyear.png){:height="30%" width="30%"}
