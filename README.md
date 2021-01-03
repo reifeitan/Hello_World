@@ -21,7 +21,7 @@
  <li>Null values filling
   <ol>
   <li>Metascore - using pandas</li>
-  <li>Rev_M - using sci-kit LR</li>
+  <li>Rev_M - predicting the values using scikit LR</li>
   </ol>
  </li>
  <li>Genre analysis</li>
