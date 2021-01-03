@@ -4,8 +4,10 @@
 <h3>Intro</h3>
 <p> 
   My first professional objective is landing a job in a field I find interesting and the task at hand is mainly around gathering insights by harnessing data.<br>
+  
 I'm not just an analytical person cause numbers don't scare me, it's working with diverse teams/data points and quickly understand their standing in the process that makes one truly analytical. As I see it, the future is all about encompassing the human mind (decision making) with machine capabilities, and to succeed you need to have an understanding of how every piece in the puzzle operates.<br>
-  how many CPAs do you know with a github page? ;)<br>
+
+  Creative problem solving? definitely me. How many CPAs do you know with a github page? ;)<br>
   Feel free to leave <strong>feedback</strong> and lmk what could be done better. This will be greatly <strong>appreciated</strong>.<br>
   The work below will be updated on a weekly basis going forward.<br>
   
