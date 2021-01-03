@@ -50,8 +50,8 @@
 <h3><font color='green'>EDA 2: Insurance dataset </font></h3>
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">Click to view the python notebook</a>
- * In this dataset we information about insureds data,<br>
- and I will try to understand what affects the insureds cost by exploring age, BMI, smoking habits and more.
+ * In this dataset we information about insureds' policies<br>
+ I will try to understand what affects the insureds cost by exploring age, BMI, smoking habits and more.
   * <a href="https://www.kaggle.com/raghupalem/insurance">Kaggle dataset link</a>
 
 
