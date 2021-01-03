@@ -5,7 +5,7 @@
 <p> 
   My first professional objective is landing a job in a field I find interesting and the task at hand is mainly around gathering insights by harnessing data.<br>
   <br>
-I'm not just an analytical person cause numbers don't scare me, it's working with diverse teams/data points and quickly understand their standing in the process that makes one truly analytical. As I see it, the future is all about encompassing the human mind (decision making) with machine capabilities, and to succeed you need to have an understanding of how every piece in the puzzle operates.<br>
+I found out that the things I enjoyed most in previous roles were the analytical ones i.e. analyzing data, gathering insights presenting it.<br>
 <br>
   Creative problem solving? definitely me. How many CPAs do you know with a github page? ;)<br>
   <br>
