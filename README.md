@@ -5,7 +5,8 @@
 <p> 
   My first professional objective is landing a job in a field I find interesting and the task at hand is mainly around gathering insights by harnessing data.<br>
   <br>
-I found out that the things I enjoyed most in previous roles were the analytical ones i.e. analyzing data, gathering insights presenting it.<br>
+I found out that the things I enjoyed most in previous roles were the analytical ones, i.e. analyzing data, gathering insights, and presenting them.
+Also,  I believe my background as a CPA gives me a deeper understanding and unique perspective to explore data in a more businessy way.<br>
 <br>
   Creative problem solving? definitely me. How many CPAs do you know with a github page? ;)<br>
   <br>
