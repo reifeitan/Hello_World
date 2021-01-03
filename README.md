@@ -1,24 +1,23 @@
 <h2><font color='green'>Eitan portfolio</font></h2>
 
 
-<h3>Personal note</h3>
-<p> Thrilled you're here :).<br>
+<h3>Intro</h3>
+<p> 
   My first professional objective is landing a job in a field I find interesting and the task at hand is mainly around gathering insights by harnessing data.<br>
-  I guess my CV got you here so I'll keep it lite... Come with an open mind, how many CPAs do you know with a github page?<br>
-  Hopefully, you'd like to know each other following the work you'll see below(which will be updated on a weekly basis going forward).<br>
-  Oh, and if you didn't like it, be sure to leave a <strong>feedback</strong> and lmk what was missing for you. This will be greatly <strong>appreciated</strong>.</p>
+  An analytical person is more than being comfortable around numbers. It's about understanding different processes from different disciplines in a timely manner,   which in return will generate great analysis with beneficial insights.
+  My previous roles were very diverse cause I had to work different teams 
+  how many CPAs do you know with a github page? ;)<br>
+  Feel free to leave <strong>feedback</strong> and lmk what could be done better. This will be greatly <strong>appreciated</strong>.
+  The work below will be updated on a weekly basis going forward.<br>
+  
+</p>
   
   
   <p>Let's dive in!</p>
   ![](images/Untitled222.jpg){:height="50%" width="50%"}
 
 
-
-
-
-<h3><a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">EDA 1: IMDB dataset - click for ipynb file</a></h3>
-<ol>
- <li>Null values filling
+<li>Null values filling
   <ol>
   <li>Metascore - using pandas</li>
   <li>Rev_M - predicting the values using scikit LR</li>
@@ -27,8 +26,17 @@
  <li>Genre analysis</li>
  <li>Actors analysis</li>
  <li>General</li>
- <li><a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a></li>
- </ol>
+
+
+<h3>EDA 1: IMDB dataset - </h3>
+
+ * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">Click to view the python notebook</a>
+ 
+ In this dataset we have 1000 movies for 10 year period (2006-2016).<br>
+ I will explore it to gather some insights about the genres, actors, directors and more.<br>
+ * The dataset has null values and I'll fill them using numpy/pandas and LR prediction using scikit
+ *<a href="https://www.kaggle.com/PromptCloudHQ/imdb-data">Kaggle dataset link</a>
+
  
 ![](/IMDB/ratingbyg.png){:height="30%" width="30%"}  ![](/IMDB/revbyear.png){:height="30%" width="30%"}
 ![](/IMDB/barnline.png){:height="30%" width="60%"}
