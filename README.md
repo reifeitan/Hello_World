@@ -7,7 +7,7 @@
   <br>
 I like solving problems. Google, Medium\stackoverflow are probably my most close professional friends.
 And the most important thing is that I enjoy building useful stuff, with a strong business orientation.<br>
-Also,  I believe my background as a CPA gives me a deeper understanding and unique perspective to explore data in a more businessy way, on top of the soft skills I gained over the years participating in hundred of meetings with units' leaders.<br>
+Also,  I believe my background as a CPA gives me a deeper understanding and unique perspective to explore data in a more businessy way, on top of the soft skills I gained over the years participating in hundreds of meetings with units' leaders.<br>
 <br>
   Creative problem solving? definitely me. How many CPAs do you know with a github page? ;)<br>
   <br>
