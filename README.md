@@ -28,8 +28,8 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
 
 * This is a synthetic dataset with 6.5M observations. I haven't done exploring it yet.<br>
 I used the KMeans algorithm to find interesting clusters that might reveal more to us.<br>
-I will try to use a different clustering algorithm and continue the explore this dataset to find more insights. <br>
-Stay tuned.<br>
+I will try to use a different clustering algorithm and continue the exploration for insights. <br>
+Stay tuned :).<br>
  * <a href="https://www.kaggle.com/ntnu-testimon/paysim1">Kaggle dataset link</a><br>
  
  ![](/fraud/piecharts.png){:height="30%" width="60%"} <br>
