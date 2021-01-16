@@ -32,8 +32,8 @@ I will try to use a different clustering algorithm and continue the explore this
 Stay tuned.<br>
  * <a href="https://www.kaggle.com/ntnu-testimon/paysim1">Kaggle dataset link</a><br>
  
- ![](/fraud/piecharts.png){:height="30%" width="60%"} 
- ![](/fraud/meanbars.png){:height="30%" width="30%"}  ![](/fraud/fraudportion.png){:height="30%" width="30%"}
+ ![](/fraud/piecharts.png){:height="30%" width="60%"} <br>
+ ![](/fraud/fraudportion.png){:height="30%" width="30%"}  ![](/fraud/meanbars.png){:height="30%" width="30%"} 
 
 
 
