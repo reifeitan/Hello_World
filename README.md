@@ -24,7 +24,7 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
 
 <h3><font color='green'>EDA 1: Synthetic Financial Datasets For Fraud Detection </font> </h3>
 
-* 
+* <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/fraud/fraudEDA.ipynb">Click to view the python notebook</a>
 
 * This is a synthetic dataset with 6.5M observations. I haven't done exploring it yet.<br>
 I used the KMeans algorithm to find interesting clusters that might reveal more to us.<br>
