@@ -22,8 +22,25 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
 
 
 
+<h3><font color='green'>EDA 1: Synthetic Financial Datasets For Fraud Detection </font> </h3>
 
-<h3><font color='green'>EDA 1: IMDB dataset </font> </h3>
+* 
+
+* This is a synthetic dataset with 6.5M observations. I haven't done exploring it yet.<br>
+I used the KMeans algorithm to find interesting clusters that might reveal more to us.<br>
+I will try to use a different clustering algorithm and continue the explore this dataset to find more insights. <br>
+Stay tuned.<br>
+ * <a href="https://www.kaggle.com/ntnu-testimon/paysim1">Kaggle dataset link</a><br>
+ 
+ ![](/fraud/piecharts.png){:height="30%" width="60%"} 
+ ![](/fraud/meanbars.png){:height="30%" width="30%"}  ![](/fraud/fraudportion.png){:height="30%" width="30%"}
+
+
+
+<br>
+<br>
+
+<h3><font color='green'>EDA 2: IMDB dataset </font> </h3>
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/IMDB/IMDB.ipynb">Click to view the python notebook</a>
  
@@ -42,7 +59,7 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
 
 
 
-<h3><font color='green'>EDA 2: Insurance dataset </font></h3>
+<h3><font color='green'>EDA 3: Insurance dataset </font></h3>
 
  * <a href="https://github.com/reifeitan/Hello_World/blob/master-branch/Insurance/Insurance.ipynb">Click to view the python notebook</a>
  
