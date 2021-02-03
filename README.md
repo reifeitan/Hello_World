@@ -12,7 +12,7 @@ Also,  I believe my background as a CPA gives me a deeper understanding and uniq
   Creative problem solving? definitely me. How many CPAs do you know with a github page? ;)<br>
   <br>
   Feel free to leave <strong>feedback</strong> and lmk what could be done better. This will be greatly <strong>appreciated</strong>.<br>
-  The work below will be updated on a weekly basis going forward.<br>
+
   
 </p>
   
