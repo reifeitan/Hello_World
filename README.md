@@ -3,7 +3,6 @@
 
 <h3>Intro</h3>
 <p> 
-  My first professional objective is landing a job in a field I find interesting and the task at hand is mainly around gathering insights by harnessing data.<br>
   <br>
 I like solving problems. Google, Medium, and stackoverflow are probably my most close professional friends.
 And the most important thing is that I enjoy building useful stuff, with a strong business orientation.<br>
